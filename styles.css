@@ -252,15 +252,9 @@ html, body {
   width: 100%;
 }
 
-.notify-logo {
-  height: 56px;
-  width: auto;
-}
-
 .notify-wordmark {
-  height: clamp(28px, 4vh, 40px);
+  height: clamp(32px, 5vh, 48px);
   width: auto;
-  margin-top: 0.35rem;
 }
 
 .notify-kicker {
